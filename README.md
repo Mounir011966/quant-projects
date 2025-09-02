@@ -21,8 +21,10 @@ python -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
+---
 
-References
+
+## References
 
 Black & Scholes (1973)
 
