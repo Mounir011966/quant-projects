@@ -13,8 +13,16 @@ This repository contains compact implementations in **quantitative finance**, wi
 - `data/price_data.csv` – Sample dataset  
 - `requirements.txt` – Python dependencies
 
+## Installation
+```bash
+git clone https://github.com/Mounir011966/quant-projects.git
+cd quant-projects
+python -m venv .venv
+source .venv/bin/activate     # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
 
-## References
+
+References
 
 Black & Scholes (1973)
 
