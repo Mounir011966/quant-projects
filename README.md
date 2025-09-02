@@ -1,2 +1,30 @@
-# quant-projects
-Academic-inspired personal project, building on stochastic calculus &amp; financial derivatives courses (KTH/Centrale).
+# Quant Projects
+
+Academic-inspired personal project, building on stochastic calculus & financial derivatives courses (KTH / Centrale Méditerranée).
+
+This repository contains compact implementations in **quantitative finance**, with a focus on option pricing and time series econometrics.
+
+---
+
+## Contents
+- `notebooks/blackscholes.ipynb` – European option pricing (Black–Scholes closed form)  
+- `notebooks/montecarlo.ipynb` – Monte Carlo pricer (European / exotic-ready)  
+- `notebooks/spread.ipynb` – Cointegration tests, spread modeling and simple backtesting  
+- `data/price_data.csv` – Sample dataset  
+- `requirements.txt` – Python dependencies
+
+
+## References
+
+Black & Scholes (1973)
+
+Hull, Options, Futures and Other Derivatives
+
+Shreve, Stochastic Calculus for Finance II
+
+Hamilton, Time Series Analysis
+
+License: MIT
+Author: Mounir ZEBBAR
+
+---
