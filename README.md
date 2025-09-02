@@ -27,7 +27,7 @@ Run montecarlo.ipynb to simulate option pricing with Monte Carlo methods.
 
 Run spread.ipynb for time series analysis, cointegration tests and backtesting.
 
-References
+## References
 Black & Scholes (1973)
 
 Hull, Options, Futures and Other Derivatives
